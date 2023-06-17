@@ -27,5 +27,5 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 ## Languages
 
-- Spanish (Fluent)
-- English (Native)
+- Spanish (Native)
+- English (Fluent)
