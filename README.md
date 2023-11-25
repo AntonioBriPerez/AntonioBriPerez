@@ -19,7 +19,7 @@ I'm a DevOps engineer with a strong focus on cloud and security. I'm passionate 
 ## Get in Touch
 
 - LinkedIn: [My Linkedin](https://www.linkedin.com/in/antonio-bri-perez/)
-- Email: antoniobriperez@gmail.com
+- Email: antoniobriperez@icloud.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
