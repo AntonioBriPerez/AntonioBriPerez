@@ -20,7 +20,7 @@ I'm also a Professor at Universidad Internacional de La Rioja (UNIR) and I lectu
 
 ## Get in Touch
 
-- LinkedIn: [My Linkedin](https://www.linkedin.com/in/antonio-bri-perez/)
+- Website: [My Website](https://abriperez.com)
 - Email: antoniobriperez@icloud.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
