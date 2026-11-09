@@ -4,7 +4,6 @@
 
 I'm a DevOps engineer with a strong focus on cloud and security. I'm passionate about leveraging cloud technologies to build scalable and secure infrastructure. This is my GitHub profile, where you can find a collection of projects and resources related to cloud, DevOps, and security.
 
-I'm also a Professor at Universidad Internacional de La Rioja (UNIR) and I lecture Artificial Intelligence and Knowledge Engineering and Cloud Computing for IA.
 
 ## Skills and Expertise
 
